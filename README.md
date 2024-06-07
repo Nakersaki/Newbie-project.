@@ -1,3 +1,20 @@
+<!Doctype html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" rel="styles.css">
+  <title>Head Game</title>
+</head>
+<body>
+  <input type="text">
+</body>
+
+
+</html>
+
+
+
+
+
 <input type="text> 
 # Frontend Mentor - Product preview card component solution
 
